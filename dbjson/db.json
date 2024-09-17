@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 12999,
+      "image": "http://localhost:3005/images/image1.png"
+    },
+    {
+      "id": 2,
+      "name": "Мужские Кроссовки Nike Air Max 270",
+      "price": 12999,
+      "image": "http://localhost:3005/images/image2.png"
+    },
+    {
+      "id": 3,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "image": "http://localhost:3005/images/image3.png"
+    },
+    {
+      "id": 4,
+      "name": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "image": "http://localhost:3005/images/image4.png"
+    },
+    {
+      "id": 5,
+      "name": "Мужские Кроссовки Under Armour Curry 8",
+      "price": 15199,
+      "image": "http://localhost:3005/images/image5.png"
+    },
+    {
+      "id": 6,
+      "name": "Мужские Кроссовки Nike Kyrie 7",
+      "price": 11299,
+      "image": "http://localhost:3005/images/image6.png"
+    },
+    {
+      "id": 7,
+      "name": "Мужские Кроссовки Jordan Air Jordan 11",
+      "price": 10799,
+      "image": "http://localhost:3005/images/image7.png"
+    },
+    {
+      "id": 8,
+      "name": "Мужские Кроссовки Nike LeBron XVIII",
+      "price": 16499,
+      "image": "http://localhost:3005/images/image8.png"
+    },
+    {
+      "id": 9,
+      "name": "Мужские Кроссовки Nike Lebron XVIII Low",
+      "price": 13999,
+      "image": "http://localhost:3005/images/image9.png"
+    },
+    {
+      "id": 10,
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": 8499,
+      "image": "http://localhost:3005/images/image10.png"
+    },
+    {
+      "id": 11,
+      "name": "Кроссовки Puma X Aka Boku Future Rider",
+      "price": 8999,
+      "image": "http://localhost:3005/images/image11.png"
+    },
+    {
+      "id": 12,
+      "name": "Мужские Кроссовки Nike Kyrie Flytrap IV",
+      "price": 11299,
+      "image": "http://localhost:3005/images/image12.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe"
+    }
+  ]
+}

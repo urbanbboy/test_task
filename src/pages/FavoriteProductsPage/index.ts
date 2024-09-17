@@ -1,0 +1,1 @@
+export { FavoriteProductsPageAsync as FavoriteProductsPage } from './ui/FavoriteProductsPage.async';
